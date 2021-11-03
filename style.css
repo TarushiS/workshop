@@ -1,0 +1,22 @@
+/*
+COMMENTS
+
+Resource: fonts.google.com
+
+selector {
+    property: value;
+    property: value;
+    property: value;
+    property: value;
+    property: value;
+}
+
+*/
+
+html {
+    font-family: Arial, sans-serif; /* add the CSS ref from google here, if needed */
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
